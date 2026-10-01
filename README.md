@@ -16,6 +16,10 @@ A free, portable Windows application from **AI Creations Now Software Developmen
   <img src="azuretool-resources.jpg" alt="Azure Artifact Signing Tool resource-selection screen" width="840">
 </p>
 
+<p align="center">
+  <a href="#features">Features</a> · <a href="#requirements">Requirements</a> · <a href="#download-and-use">Quick start</a> · <a href="#privacy-and-account-handling">Privacy</a> · <a href="#support">Support</a>
+</p>
+
 ## Features
 
 - Detect existing Microsoft prerequisites and prepare missing or unusable components.
@@ -53,6 +57,8 @@ The tool does not create your Azure subscription, complete Microsoft's identity 
 
 There is no product installer, product subscription, license code, or required payment. The website's download panel opens an optional Stripe contribution tab; you can close that tab and return to the free download. [Optional contributions of $3 or more](https://buy.stripe.com/6oUeVf77ZdRCfMEbka5kk04) support development.
 
+GitHub’s **Code → Download ZIP** contains the documentation and artwork in this repository. Use the executable download above to get the Windows application.
+
 ## Privacy and account handling
 
 Selected file contents are not uploaded to AI Creations Now. Files, backups, hashes, and reports are handled locally; the application communicates with Microsoft for authentication and signing. Microsoft handles password and MFA entry. The application can retain its own authorization cache without changing your ordinary Azure CLI profile.
@@ -66,3 +72,7 @@ Contact [info@aicreatenow.com](mailto:info@aicreatenow.com) or call **1-866-315-
 ## Source and licensing
 
 This repository contains documentation for proprietary software. Application source code is not included. Obtain the application and its applicable terms through the official product page.
+
+---
+
+<p align="center">Built by <a href="https://github.com/aicreatenowdom">AI Creations Now Software Development</a> · <a href="https://aicreatenow.com/azuretool.html">Official product page</a> · <a href="SUPPORT.md">Support guide</a></p>

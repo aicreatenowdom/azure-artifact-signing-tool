@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://aicreatenow.com/">
-    <img src="organization-logo.png" alt="AI Creations Now Software Development" width="120" height="120">
-  </a>
+  <a href="https://aicreatenow.com/azuretool.html"><img src="azuretool-hero.jpg" alt="AI Creations Now Azure Artifact Signing Tool product artwork and demonstration interface" width="900"></a>
 </p>
 
 <h1 align="center">Azure Artifact Signing Tool</h1>
@@ -10,10 +8,6 @@ A free, portable Windows application from **AI Creations Now Software Developmen
 
 <p align="center">
   <a href="https://aicreatenow.com/azuretool.html">Official product page</a> · <a href="https://download.aicreatenow.com/software/AI_Creations_Now_Azure_Signing_Program_1_012.exe">Download for Windows</a> · <a href="https://download.aicreatenow.com/media/aicreatenow/azuretool4k.mp4">Video walkthrough</a>
-</p>
-
-<p align="center">
-  <img src="azuretool-resources.jpg" alt="Azure Artifact Signing Tool resource-selection screen" width="840">
 </p>
 
 <p align="center">

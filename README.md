@@ -63,6 +63,10 @@ Use the application's sign-out control before leaving a shared or temporary comp
 
 Contact [info@aicreatenow.com](mailto:info@aicreatenow.com) or call **1-866-315-4750**. See the [product page](https://aicreatenow.com/azuretool.html) for current release information and the [software catalog](https://aicreatenow.com/software.html) for AI Creations Now's product support information.
 
+## Practical guide and release notes
+
+[Getting started and common questions](GETTING-STARTED.md) · [GitHub release notes](https://github.com/aicreatenowdom/azure-artifact-signing-tool/releases) · [Support](SUPPORT.md)
+
 ## Source and licensing
 
 This repository contains documentation for proprietary software. Application source code is not included. Obtain the application and its applicable terms through the official product page.
